@@ -3,3 +3,4 @@
 Rien de nouveau sur Guild
 Swap effectué sur Uniswap
 Suivi du twitter de @Base
+Fin de session
