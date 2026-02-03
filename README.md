@@ -8,4 +8,5 @@ Fin de session
 Swap sur oponsea en sol
 achat nft base d'une valeur de 10 usd
 objectif faire mes 5 commits
+Chercker layer 3 rien de spécial
 Fin de session
