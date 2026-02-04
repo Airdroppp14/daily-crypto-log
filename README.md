@@ -10,3 +10,4 @@ achat nft base d'une valeur de 10 usd
 objectif faire mes 5 commits
 Chercker layer 3 rien de spécial
 Fin de session
+swap de base de 50 usd
