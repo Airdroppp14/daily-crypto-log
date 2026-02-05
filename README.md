@@ -1,5 +1,6 @@
 # daily-crypto-log
-2 Février : J'ai checké Base
+2 Février 2026 
+J'ai checké Base
 Rien de nouveau sur Guild
 Swap effectué sur Uniswap
 Suivi du twitter de @Base
