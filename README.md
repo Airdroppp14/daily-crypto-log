@@ -21,3 +21,4 @@ Achat nft eth de 10 usd
 swap de 650 de base usd vers eth
 Mint NFT the rainbow airdrop sur layer3
 Pas de vote sur Optimism via Agora
+Super account pas de nouveau badge pour la saison 9
