@@ -1,11 +1,11 @@
 # daily-crypto-log
-2 Février 2026 
+3 Février 2026 
 J'ai checké Base
 Rien de nouveau sur Guild
 Swap effectué sur Uniswap
 Suivi du twitter de @Base
 Fin de session
-3 février 2026
+4 février 2026
 Swap sur oponsea en sol
 achat nft base d'une valeur de 10 usd
 objectif faire mes 5 commits
@@ -16,3 +16,4 @@ vente d'un NFT de 10 usd sur polygon
 linch rewardzs sur layer 3 pour 3,50 usd
 quete hume world
 swap 750 usd eth vers usd
+5 Février 2026 
