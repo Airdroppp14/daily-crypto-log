@@ -29,3 +29,5 @@ Simple swap de 300 usd sur base via Opensea pour farm le coffre avant l'airdrop
 Fin de session
 7 février 2026
 Swap sur Opensea 300 usd usdc vers eth apres la baisse de ETh
+Mint sur blueprint
+
