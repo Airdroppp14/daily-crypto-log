@@ -30,4 +30,4 @@ Fin de session
 7 février 2026
 Swap sur Opensea 300 usd usdc vers eth apres la baisse de ETh
 Mint sur blueprint
-
+mint sur hume world pour rester dans le top 500
