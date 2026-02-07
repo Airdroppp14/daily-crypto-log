@@ -27,3 +27,4 @@ Fin de session
 C'est mon anniversaire 25 ans
 Simple swap de 300 usd sur base via Opensea pour farm le coffre avant l'airdrop
 Fin de session
+7 février
