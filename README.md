@@ -25,3 +25,4 @@ Super account pas de nouveau badge pour la saison 9
 Fin de session
 6 février 2026
 C'est mon anniversaire 25 ans
+Simple swap de 300 usd sur base via Opensea pour farm le coffre avant l'airdrop
