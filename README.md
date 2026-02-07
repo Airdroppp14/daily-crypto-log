@@ -26,3 +26,4 @@ Fin de session
 6 février 2026
 C'est mon anniversaire 25 ans
 Simple swap de 300 usd sur base via Opensea pour farm le coffre avant l'airdrop
+Fin de session
