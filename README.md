@@ -38,4 +38,5 @@ swap opensea 300 usd pour farmer base et la fin de opensea
 Mint quelques nft sur BP
 rien n'a signlé du cote de layer3
 ajout de personne sur farcaster afin d'aller chercher les 5k followers
-Pas de nouveau sur Plume en attente de recompense 
+Pas de nouveau sur Plume en attente de recompense
+Spin sur hume world
