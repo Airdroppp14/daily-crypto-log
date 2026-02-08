@@ -33,3 +33,4 @@ Mint sur blueprint
 mint sur hume world pour rester dans le top 500
 petit message sur  le discord de base sur la partie france pour inviter à follow back sur base app
 Fin de session
+8 février 2026
