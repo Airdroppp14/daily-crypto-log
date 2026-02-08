@@ -40,3 +40,4 @@ rien n'a signlé du cote de layer3
 ajout de personne sur farcaster afin d'aller chercher les 5k followers
 Pas de nouveau sur Plume en attente de recompense
 Spin sur hume world
+Je suis a jour sur basename sauf sur mon talentscore qui est tombé a 11 au lieu de 140
