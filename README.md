@@ -35,3 +35,4 @@ petit message sur  le discord de base sur la partie france pour inviter à follo
 Fin de session
 8 février 2026
 swap opensea 300 usd pour farmer base et la fin de opensea
+Mint quelques nft sur BP
