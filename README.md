@@ -46,3 +46,4 @@ Fin de session
 9 février
 Simple swap sur opensea sur base eth vers usd pour garder le day current sur base
 Fin de session
+10 février
