@@ -52,3 +52,4 @@ Achat de 90k de talent lock sur 30 jours
 Faire un point sur le builder score à revoir poster des photos sur Zora + tweet sur Farcaster
 Mint sur blueprint afin de reussir a arrivé à 50k XP
 Allocation sur Jup Sup de 69 token avec un vesting sur 4 mois
+Ajout de personne sur Farcaster afin d'atteidre les 5k de followers + 1K sur twitter
