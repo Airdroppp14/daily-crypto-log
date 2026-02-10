@@ -54,3 +54,4 @@ Mint sur blueprint afin de reussir a arrivé à 50k XP
 Allocation sur Jup Sup de 69 token avec un vesting sur 4 mois
 Ajout de personne sur Farcaster afin d'atteidre les 5k de followers + 1K sur twitter
 Achat de 330 Token Grass afin de mettre en staking passage des 500 tokens
+Achat de mon token sur zora
