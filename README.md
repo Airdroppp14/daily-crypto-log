@@ -45,3 +45,4 @@ Je suis a jour sur basename sauf sur mon talentscore qui est tombé a 11 au lieu
 Fin de session
 9 février
 Simple swap sur opensea sur base eth vers usd pour garder le day current sur base
+Fin de session
