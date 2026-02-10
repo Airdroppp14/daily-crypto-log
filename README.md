@@ -56,3 +56,4 @@ Ajout de personne sur Farcaster afin d'atteidre les 5k de followers + 1K sur twi
 Achat de 330 Token Grass afin de mettre en staking passage des 500 tokens
 Achat de mon token sur zora
 Achat du free mint sur Opensea en attente du boost de 5% sur Base
+Fin de session
