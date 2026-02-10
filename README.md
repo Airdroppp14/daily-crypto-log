@@ -47,3 +47,4 @@ Fin de session
 Simple swap sur opensea sur base eth vers usd pour garder le day current sur base
 Fin de session
 10 février
+visite du site Agora aucun vote sur OP
