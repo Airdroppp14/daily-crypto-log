@@ -43,8 +43,9 @@ Spin sur hume world
 Quelques swap sur relay on base
 Je suis a jour sur basename sauf sur mon talentscore qui est tombé a 11 au lieu de 140
 Fin de session
-9 février
+9 février 2026
 Simple swap sur opensea sur base eth vers usd pour garder le day current sur base
 Fin de session
-10 février
+10 février 2026
 visite du site Agora aucun vote sur OP
+Achat de 90k de talent lock sur 30 jours
