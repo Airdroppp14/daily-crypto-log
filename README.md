@@ -43,3 +43,4 @@ Spin sur hume world
 Quelques swap sur relay on base
 Je suis a jour sur basename sauf sur mon talentscore qui est tombé a 11 au lieu de 140
 Fin de session
+9 février
