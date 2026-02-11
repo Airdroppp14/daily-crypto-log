@@ -60,3 +60,4 @@ Fin de session
 11 février 2026
 achat d'un nft sur opensea pour completer la quete du jour
 Mint sur blueprint d'un nft
+Pas d'évolution dans le builder score
