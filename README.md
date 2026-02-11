@@ -62,3 +62,4 @@ achat d'un nft sur opensea pour completer la quete du jour
 Mint sur blueprint d'un nft
 Pas d'évolution dans le builder score
 Probleme sur Polymarket lie a un depot probleme en attente de resolution
+passage des 100 followers sur twitter 
