@@ -69,3 +69,4 @@ Fin de session
 Mint sur BP NFT
 Aucun vote sur Agora
 pas éligible sur Espresso
+mint d'un cube sur layer 3
