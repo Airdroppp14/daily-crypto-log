@@ -66,3 +66,4 @@ passage des 100 followers sur twitter
 bloquer sur farcaster a 1,7k followers
 Fin de session
 12 février 2026
+Mint sur BP NFT
