@@ -68,3 +68,4 @@ Fin de session
 12 février 2026
 Mint sur BP NFT
 Aucun vote sur Agora
+pas éligible sur Espresso
