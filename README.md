@@ -71,3 +71,4 @@ Aucun vote sur Agora
 pas éligible sur Espresso
 mint d'un cube sur layer 3
 mint sru hume world classement 231
+Paris sur un nouveau shutdown au usa de moins de 7 jours
