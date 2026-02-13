@@ -76,3 +76,4 @@ Fin de session
 13 Février 2026
 Mint sur Hume wolrd top 218
 bridge sur jumper base to mon 
+quete layer 3 faite via le bridge jsute avant mint sur monad
