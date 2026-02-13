@@ -74,3 +74,4 @@ mint sru hume world classement 231
 Paris sur un nouveau shutdown au usa de moins de 7 jours
 Fin de session
 13 Février 2026
+Mint sur Hume wolrd top 218
