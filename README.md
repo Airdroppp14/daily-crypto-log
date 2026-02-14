@@ -81,3 +81,4 @@ Fin de session
 14 Février 2026
 vente d'un pari sur polymarket + 99$
 Opensea swap pour augmenter le coffre
+Volume fait sur base de 15k€
