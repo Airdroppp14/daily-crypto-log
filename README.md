@@ -88,3 +88,4 @@ Fin de session
 Obejctfi reussi pour avoir le coffre Topaze sur Opensea
 mint sur BP 
 mint d'un nft sur base 
+point fait sur discord et sur talent 
