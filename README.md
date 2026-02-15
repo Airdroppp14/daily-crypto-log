@@ -90,3 +90,4 @@ mint sur BP
 mint d'un nft sur base 
 point fait sur discord et sur talent 
 Role de + de 100 commit reussi sur Base
+Fin de session
