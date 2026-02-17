@@ -95,3 +95,4 @@ Fin de session
 Swap sur opensea 9 usd
 mint sur bp deux nft
 mint layer3
+mint sur hume world
