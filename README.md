@@ -97,3 +97,4 @@ mint sur bp deux nft
 mint layer3
 mint sur hume world
 discord base gm
+Opensea voir recompense dans 24 heures 
