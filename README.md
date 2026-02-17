@@ -92,3 +92,4 @@ point fait sur discord et sur talent
 Role de + de 100 commit reussi sur Base
 Fin de session
 17 février 2026
+Swap sur opensea 9 usd
