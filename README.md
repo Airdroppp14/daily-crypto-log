@@ -70,7 +70,7 @@ Mint sur BP NFT
 Aucun vote sur Agora
 pas éligible sur Espresso
 mint d'un cube sur layer 3
-mint sru hume world classement 231
+mint sur hume world classement 231
 Paris sur un nouveau shutdown au usa de moins de 7 jours
 Fin de session
 13 Février 2026
@@ -100,3 +100,4 @@ discord base gm
 Opensea voir recompense dans 24 heures 
 Fin de session
 18 février 2026
+Check discord rien en attente
