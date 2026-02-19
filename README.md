@@ -102,3 +102,4 @@ Fin de session
 18 février 2026
 Check discord rien en attente
 19 février 2026
+Acquisition de 684 OP afin d'atteindre 1k OP
