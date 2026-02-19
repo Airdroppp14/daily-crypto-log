@@ -105,3 +105,4 @@ Check discord rien en attente
 Acquisition de 684 OP afin d'atteindre 1k OP
 Transaction via Relay
 2 mint sur Glitchy Bunnies 2 whitelist donc 2 mint sur Megaeth
+Mint sur BP pour garder le steak
