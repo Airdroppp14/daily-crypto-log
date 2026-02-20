@@ -108,3 +108,4 @@ Transaction via Relay
 Mint sur BP pour garder le steak
 Fin de session
 20 février 2026
+Achat d'un nft base
