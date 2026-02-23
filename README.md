@@ -120,3 +120,4 @@ Mise en vente de mes deux NFT Megaeth pour 150 usd
 Achat de nft sur bp pour garder le steak de 16 jours
 Fin de session
 23 février 2026
+Relay bridge MEGAETH vers BASE
