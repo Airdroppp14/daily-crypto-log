@@ -125,3 +125,4 @@ Pas de quete sur hume world
 Mint sur BP de deux NFT 
 Fin de session
 24 février 2026
+Pas de vote sur Agora
