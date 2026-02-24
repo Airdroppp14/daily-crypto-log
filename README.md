@@ -127,3 +127,4 @@ Fin de session
 24 février 2026
 Pas de vote sur Agora
 Mint sur BP deux NFT
+Swap 50 eth vers usd sur Opensea
