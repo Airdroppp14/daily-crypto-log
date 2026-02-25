@@ -130,3 +130,4 @@ Mint sur BP deux NFT
 Swap 50 eth vers usd sur Opensea
 Fin de session
 25 février 2026
+Mint sur Opensea de 10$
