@@ -144,3 +144,4 @@ activité faible ce jour
 Fin de session
 28 février 2026
 Basenames bug encore pas de remonté encore sur mes transactions
+swap base 
