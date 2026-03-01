@@ -147,3 +147,4 @@ Basenames bug encore pas de remonté encore sur mes transactions
 Swap base 
 Fin de session
 1 Mars 2026
+Vente d'un NFT sur AVAX 
