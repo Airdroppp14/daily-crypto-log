@@ -165,4 +165,5 @@ bridge ink vers base
 deploy smart contract on ink and base
 bridge base on arbitrum
 100 dollars sur ample sur arbitrum
+DEploy un nft sur soneim
 fin de session
