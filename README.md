@@ -162,3 +162,4 @@ Mint sur base 2026
 200 dollars sur Ample
 12 mars 2026
 bridge ink vers base
+deploy smart contract on ink and base
