@@ -179,4 +179,5 @@ bridge sur opensea 500 USDC base vers ETH
 Swap de ETH vers WETH sur relay
 Achats de divers nft sur base
 objectifs bientot les 200 commit sur mon main
+Rewards cliam sur sup
 Fin de session
