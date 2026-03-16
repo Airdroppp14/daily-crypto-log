@@ -177,3 +177,4 @@ bridge btc en cbtc sur base
 Proposition à 0.2 ETH sur un NFT Genesis de la serie
 bridge sur opensea 500 USDC base vers ETH 
 Swap de ETH vers WETH sur relay
+Achats de divers nft sur base
