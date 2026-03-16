@@ -175,3 +175,4 @@ Achat de 1500 euros en btc
 bridge btc en cbtc sur base
 16 MARS 2026
 Proposition à 0.2 ETH sur un NFT Genesis de la serie
+bridge sur opensea 500 USDC base vers ETH 
